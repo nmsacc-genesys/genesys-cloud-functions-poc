@@ -1,0 +1,5 @@
+{
+    "mode": "${input.mode}",
+    "text": "${input.text}",
+    "passphrase": "${input.passphrase}"
+}

@@ -1,0 +1,11 @@
+{
+    "title": "EncryptDecryptResponse",
+    "type": "object",
+    "properties": {
+        "result": {
+            "type": "string",
+            "description": "The encrypted ciphertext or decrypted plaintext"
+        }
+    },
+    "additionalProperties": false
+}
